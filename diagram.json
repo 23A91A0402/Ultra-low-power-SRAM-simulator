@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "author": "Bathina Bhavya Sri Lakshmi",
+  "author": "Allanka Sri Harshitha",
   "editor": "wokwi",
   "parts": [
     { "type": "wokwi-arduino-uno", "id": "uno", "top": -9, "left": 28.2, "attrs": {} },
